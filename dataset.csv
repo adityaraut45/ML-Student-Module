@@ -1,0 +1,305 @@
+student_id,age,gender,study_hours_per_day,attendance_percent,previous_score,sleep_hours,internet_access,parental_education,extracurricular,final_score,result
+S1001,21,Female,5.5,94.2,92.7,7.2,Yes,High School,No,72.9,Pass
+S1002,18,Female,6.6,83.1,67.6,8.5,Yes,Bachelor,Yes,67.5,Pass
+S1003,20,Female,7.2,86.4,77.3,7.7,Yes,High School,No,74.7,Pass
+S1004,21,Female,5.2,81.9,73.6,8.8,Yes,Bachelor,No,62.0,Pass
+S1005,18,Female,3.8,65.9,51.2,6.9,Yes,High School,No,48.8,Fail
+S1006,20,Male,8.0,91.8,82.8,9.6,Yes,PhD,No,83.4,Pass
+S1007,19,Male,7.7,85.6,93.4,6.5,Yes,High School,Yes,76.9,Pass
+S1008,17,Female,9.0,91.7,90.7,6.2,Yes,Bachelor,No,80.4,Pass
+S1009,19,Female,2.8,58.2,57.8,5.7,Yes,High School,No,50.5,Pass
+S1010,19,Female,5.8,75.1,66.5,9.6,Yes,High School,Yes,59.6,Pass
+S1011,17,Female,5.2,86.3,62.8,7.9,No,High School,Yes,59.3,Pass
+S1012,22,Female,6.5,91.2,79.8,6.6,Yes,High School,Yes,66.7,Pass
+S1013,20,Female,5.5,78.6,64.4,8.4,Yes,High School,No,66.7,Pass
+S1014,17,Female,8.1,94.8,78.3,7.8,Yes,Bachelor,Yes,81.6,Pass
+S1015,22,Female,6.3,90.0,70.2,9.2,Yes,Bachelor,No,66.4,Pass
+S1016,22,Male,2.2,67.2,56.9,5.3,Yes,High School,Yes,43.1,Fail
+S1017,17,Female,4.4,80.7,61.1,,Yes,Bachelor,Yes,56.8,Pass
+S1018,17,Male,1.6,62.6,45.4,6.5,Yes,Bachelor,No,34.0,Fail
+S1019,19,Female,7.8,94.9,87.4,4.8,Yes,High School,Yes,78.2,Pass
+S1020,20,Female,5.4,81.7,65.2,8.2,Yes,Bachelor,No,63.0,Pass
+S1021,21,Female,8.1,93.2,86.8,6.7,Yes,High School,Yes,78.7,Pass
+S1022,19,Male,5.5,82.8,63.7,7.8,Yes,High School,No,59.3,Pass
+S1023,20,Female,7.2,85.2,84.7,9.6,No,Bachelor,Yes,77.2,Pass
+S1024,17,Male,8.4,85.1,89.2,6.6,Yes,PhD,No,80.7,Pass
+S1025,20,Female,8.6,94.1,84.6,6.5,Yes,PhD,No,80.9,Pass
+S1026,22,Male,2.9,62.3,51.8,7.1,Yes,PhD,Yes,43.1,Fail
+S1027,20,Male,4.2,71.9,76.9,8.1,Yes,Bachelor,Yes,67.2,Pass
+S1028,19,Female,2.2,57.0,47.7,6.4,Yes,High School,Yes,32.8,Fail
+S1029,18,Female,2.6,53.5,50.6,6.3,Yes,High School,No,39.1,Fail
+S1030,22,Male,5.2,89.9,62.9,8.2,Yes,High School,No,59.0,Pass
+S1031,17,Male,4.4,80.1,72.9,7.4,Yes,High School,Yes,66.1,Pass
+S1032,18,Male,6.1,,78.5,4.8,Yes,High School,Yes,62.4,Pass
+S1033,17,Female,3.2,67.6,55.0,5.7,Yes,Bachelor,No,41.8,Fail
+S1034,22,Male,5.0,65.5,65.8,8.7,Yes,High School,No,52.0,Pass
+S1035,19,Male,5.3,80.6,80.4,7.4,Yes,High School,No,65.0,Pass
+S1036,22,Male,3.2,74.3,50.6,6.2,No,Bachelor,Yes,38.7,Fail
+S1037,20,Male,4.1,60.8,,6.8,Yes,Bachelor,No,43.6,Fail
+S1038,20,Male,4.5,88.5,77.1,7.0,Yes,Master,No,55.1,Pass
+S1039,20,Female,1.1,73.8,69.9,7.8,Yes,High School,Yes,47.5,Fail
+S1040,18,Female,6.4,81.0,63.4,5.5,Yes,Bachelor,Yes,59.6,Pass
+S1041,20,Male,4.0,69.2,67.9,6.1,Yes,High School,Yes,46.2,Fail
+S1042,21,Female,8.1,92.1,77.4,7.3,Yes,Bachelor,No,79.9,Pass
+S1043,22,Female,6.6,85.3,55.8,6.9,Yes,,Yes,55.5,Pass
+S1044,20,Male,3.1,59.0,71.0,7.6,Yes,High School,No,52.1,Pass
+S1045,22,Female,,88.5,95.4,5.6,Yes,Bachelor,No,79.7,Pass
+S1046,22,Female,9.6,94.7,82.2,7.4,No,High School,No,85.6,Pass
+S1047,20,Female,4.7,94.1,66.1,8.2,Yes,High School,No,63.7,Pass
+S1048,19,Male,1.4,61.7,46.8,7.5,No,Master,Yes,32.9,Fail
+S1049,17,Male,4.8,86.5,60.1,7.2,Yes,High School,No,52.4,Pass
+S1050,18,Male,2.8,72.6,57.6,6.9,No,Bachelor,Yes,48.3,Fail
+S1051,22,Male,3.5,72.9,52.9,6.1,Yes,Bachelor,No,45.5,Fail
+S1052,17,Female,3.0,80.4,61.3,6.9,Yes,High School,No,48.3,Fail
+S1053,19,Female,8.2,90.7,79.9,8.4,Yes,Bachelor,No,82.8,Pass
+S1054,21,Female,5.7,87.0,72.6,6.9,No,,No,58.1,Pass
+S1055,18,Female,7.1,83.4,60.2,6.0,Yes,Bachelor,Yes,64.2,Pass
+S1056,22,Female,9.2,87.0,74.3,6.5,Yes,High School,No,78.2,Pass
+S1057,20,Male,4.7,90.2,74.6,7.2,Yes,High School,No,64.9,Pass
+S1058,17,Male,4.9,80.6,88.8,6.6,No,High School,No,61.8,Pass
+S1059,18,Male,2.0,64.7,41.5,,Yes,Master,Yes,38.5,Fail
+S1060,21,Male,3.0,53.5,58.4,7.6,Yes,Master,Yes,39.5,Fail
+S1061,22,Female,5.2,85.3,74.2,8.0,Yes,PhD,No,61.8,Pass
+S1062,22,Male,4.6,84.4,74.6,8.6,No,Bachelor,Yes,63.5,Pass
+S1063,22,Male,6.8,72.6,63.7,8.1,Yes,Bachelor,No,62.7,Pass
+S1064,17,Male,8.5,93.9,82.6,6.0,Yes,Bachelor,No,77.8,Pass
+S1065,21,Female,6.7,78.5,72.3,6.0,Yes,Master,No,69.9,Pass
+S1066,17,Female,3.9,79.8,61.4,,No,Bachelor,Yes,47.6,Fail
+S1067,17,Male,5.6,73.7,64.7,6.5,No,Bachelor,No,55.1,Pass
+S1068,21,Male,2.7,63.0,55.4,5.7,Yes,Bachelor,Yes,44.0,Fail
+S1069,19,Male,2.7,74.2,53.0,6.5,Yes,Bachelor,Yes,43.0,Fail
+S1070,20,Female,5.2,86.6,63.2,6.5,Yes,High School,No,63.3,Pass
+S1071,22,Male,1.7,81.9,56.1,6.3,No,Bachelor,Yes,46.8,Fail
+S1072,17,Female,4.7,81.1,52.7,6.7,Yes,High School,Yes,53.5,Pass
+S1073,20,Female,9.6,95.6,80.8,8.3,Yes,Master,Yes,92.7,Pass
+S1074,22,Female,2.8,68.8,41.5,7.2,Yes,Bachelor,No,34.8,Fail
+S1075,19,Male,3.4,74.4,,9.7,Yes,Master,No,55.0,Pass
+S1076,20,Male,1.5,64.4,55.7,7.2,Yes,Bachelor,Yes,43.1,Fail
+S1077,19,Male,2.4,67.6,55.4,6.7,Yes,Master,Yes,41.8,Fail
+S1078,22,Female,3.3,78.2,61.8,7.0,No,High School,No,49.0,Fail
+S1079,17,Male,3.4,75.0,64.5,7.3,Yes,Master,Yes,49.8,Fail
+S1080,22,Male,7.3,95.7,95.5,7.5,Yes,Bachelor,No,83.1,Pass
+S1081,21,Male,4.5,86.4,73.3,9.3,Yes,High School,No,66.5,Pass
+S1082,21,Female,2.4,72.5,68.1,6.1,Yes,High School,No,47.9,Fail
+S1083,19,Female,7.7,96.5,90.8,7.9,No,High School,No,69.7,Pass
+S1084,20,Male,3.7,79.6,40.3,7.2,Yes,Bachelor,No,41.7,Fail
+S1085,19,Female,3.3,65.0,47.3,5.3,Yes,Bachelor,No,43.5,Fail
+S1086,18,Female,3.3,71.0,39.1,7.8,Yes,,Yes,45.3,Fail
+S1087,22,Female,5.8,73.3,60.7,8.4,Yes,Bachelor,Yes,49.7,Fail
+S1088,20,Female,5.3,74.4,68.3,6.1,Yes,Bachelor,No,63.0,Pass
+S1089,21,Male,2.3,63.2,54.3,7.0,Yes,Bachelor,Yes,43.7,Fail
+S1090,17,Female,5.4,88.2,69.7,5.1,Yes,Master,No,58.4,Pass
+S1091,21,Female,3.9,70.9,55.4,5.6,Yes,Master,No,52.7,Pass
+S1092,20,Female,4.8,84.1,65.8,8.2,Yes,High School,No,56.0,Pass
+S1093,22,Female,5.8,89.1,82.5,6.5,Yes,PhD,Yes,68.1,Pass
+S1094,17,Female,5.6,81.1,61.0,5.8,No,Bachelor,Yes,58.0,Pass
+S1095,20,Male,,51.9,33.2,7.3,Yes,Master,No,36.9,Fail
+S1096,20,Female,4.5,77.8,67.7,6.4,No,PhD,Yes,63.4,Pass
+S1097,20,Female,4.6,,67.2,6.5,Yes,Bachelor,No,58.9,Pass
+S1098,17,Male,1.8,70.0,50.2,7.8,Yes,High School,No,41.9,Fail
+S1099,19,Male,2.9,57.4,48.9,5.7,Yes,Bachelor,No,42.5,Fail
+S1100,18,Female,8.3,93.8,84.7,6.0,Yes,High School,No,71.0,Pass
+S1101,20,Male,7.7,86.8,81.5,7.2,Yes,Master,Yes,79.0,Pass
+S1102,18,Female,4.6,79.3,68.0,8.1,Yes,High School,Yes,55.7,Pass
+S1103,19,Female,0.5,69.4,56.5,8.4,Yes,Bachelor,No,41.5,Fail
+S1104,20,Female,9.5,89.9,84.3,6.3,Yes,Master,Yes,81.8,Pass
+S1105,17,Male,9.8,88.5,80.3,8.0,Yes,High School,Yes,83.5,Pass
+S1106,21,Male,2.7,77.6,61.9,6.1,No,Bachelor,Yes,47.7,Fail
+S1107,21,Female,4.2,84.3,76.7,9.0,No,Bachelor,Yes,49.8,Fail
+S1108,17,Female,,74.8,33.3,5.8,Yes,Bachelor,No,37.6,Fail
+S1109,17,Male,3.2,55.4,48.4,8.5,Yes,High School,Yes,45.1,Fail
+S1110,22,Male,8.1,94.8,83.5,6.3,Yes,High School,No,77.3,Pass
+S1111,18,Male,4.1,91.5,63.6,9.2,Yes,Bachelor,Yes,60.6,Pass
+S1112,22,Female,1.9,60.3,42.7,7.7,Yes,Bachelor,No,43.6,Fail
+S1113,19,Female,2.3,68.4,45.1,5.9,Yes,Bachelor,Yes,41.0,Fail
+S1114,19,Male,,88.8,70.0,6.4,Yes,High School,No,60.8,Pass
+S1115,18,Male,3.2,72.9,50.8,7.9,No,Bachelor,Yes,50.2,Pass
+S1116,20,Male,8.6,92.5,79.1,8.2,Yes,Bachelor,No,80.3,Pass
+S1117,17,Female,8.0,,79.9,6.9,Yes,High School,Yes,72.3,Pass
+S1118,19,Male,4.0,90.1,75.4,7.0,No,Bachelor,Yes,50.2,Pass
+S1119,19,Male,4.1,85.0,80.2,7.8,Yes,High School,Yes,60.3,Pass
+S1120,17,Male,5.6,83.2,70.9,7.1,Yes,Bachelor,No,66.1,Pass
+S1121,19,Female,4.8,80.7,75.2,5.6,No,Master,No,57.2,Pass
+S1122,20,Male,5.6,79.7,65.5,6.1,No,Bachelor,Yes,61.4,Pass
+S1123,21,Male,1.2,58.6,57.1,7.3,Yes,Bachelor,Yes,40.6,Fail
+S1124,17,Female,5.7,80.5,81.7,8.3,Yes,High School,No,71.7,Pass
+S1125,22,Male,1.9,62.6,61.6,8.8,Yes,High School,No,42.8,Fail
+S1126,22,Male,5.0,82.5,74.4,7.9,Yes,High School,Yes,64.5,Pass
+S1127,21,Female,2.2,72.5,42.2,7.3,Yes,Master,No,43.0,Fail
+S1128,22,Female,2.7,82.7,50.1,7.8,Yes,Master,No,54.2,Pass
+S1129,19,Male,3.5,66.4,50.1,6.3,Yes,High School,No,36.1,Fail
+S1130,21,Male,5.7,71.3,79.5,6.8,Yes,High School,Yes,61.1,Pass
+S1131,21,Male,2.4,56.1,44.2,6.1,Yes,High School,Yes,39.2,Fail
+S1132,20,Female,8.6,87.1,90.1,5.6,Yes,Bachelor,Yes,85.6,Pass
+S1133,18,Female,4.9,85.5,66.3,7.4,Yes,Bachelor,No,61.0,Pass
+S1134,20,Female,1.7,63.5,43.1,7.2,Yes,Bachelor,Yes,36.5,Fail
+S1135,22,Female,2.7,86.6,66.3,7.8,Yes,Master,No,57.8,Pass
+S1136,22,Male,1.2,55.5,42.9,7.6,Yes,High School,No,35.7,Fail
+S1137,19,Female,5.9,92.8,,7.3,Yes,Bachelor,No,69.9,Pass
+S1138,18,Female,6.5,88.8,73.5,7.6,Yes,Bachelor,Yes,71.0,Pass
+S1139,21,Male,5.8,90.7,96.1,7.0,Yes,High School,Yes,78.3,Pass
+S1140,17,Female,4.0,55.3,55.2,7.5,Yes,Master,Yes,56.3,Pass
+S1141,17,Female,3.9,84.3,76.7,6.2,Yes,High School,No,60.3,Pass
+S1142,20,Female,3.9,88.5,63.7,,Yes,Bachelor,No,56.8,Pass
+S1143,22,Female,9.2,86.1,79.5,7.7,Yes,Bachelor,Yes,79.7,Pass
+S1144,18,Male,5.1,77.0,72.3,6.3,No,Master,No,60.9,Pass
+S1145,19,Male,5.5,82.9,70.0,7.1,Yes,Bachelor,Yes,62.9,Pass
+S1146,18,Male,0.9,70.2,64.2,6.3,Yes,High School,Yes,42.1,Fail
+S1147,19,Female,3.3,71.3,41.7,6.4,Yes,Master,Yes,39.8,Fail
+S1148,17,Female,5.2,88.5,76.4,5.8,Yes,Master,No,69.5,Pass
+S1149,20,Male,5.8,71.4,61.1,8.4,Yes,Bachelor,Yes,55.7,Pass
+S1150,20,Male,1.5,73.3,49.2,8.2,Yes,Master,Yes,41.8,Fail
+S1151,18,Male,8.8,90.3,92.2,7.6,Yes,High School,No,81.8,Pass
+S1152,18,Female,8.7,89.8,,,Yes,Bachelor,No,90.0,Pass
+S1153,21,Male,2.3,61.6,61.1,6.8,Yes,Master,Yes,44.3,Fail
+S1154,18,Male,6.2,85.0,71.3,10.0,Yes,High School,Yes,65.8,Pass
+S1155,17,Male,2.8,71.5,37.5,6.7,Yes,Bachelor,No,37.2,Fail
+S1156,17,Female,3.1,85.9,74.3,7.3,Yes,PhD,Yes,66.2,Pass
+S1157,22,Male,2.2,59.7,54.4,6.6,Yes,Master,Yes,31.4,Fail
+S1158,19,Male,5.9,82.3,64.1,7.4,Yes,Master,No,58.8,Pass
+S1159,17,Male,6.8,81.3,65.5,7.9,Yes,Bachelor,Yes,77.5,Pass
+S1160,22,Male,8.5,89.4,81.3,6.9,Yes,PhD,No,81.0,Pass
+S1161,17,Male,3.5,75.3,49.5,9.0,Yes,High School,Yes,44.5,Fail
+S1162,19,Female,8.4,100.0,90.9,7.3,Yes,Bachelor,Yes,83.8,Pass
+S1163,17,Female,2.4,66.0,40.7,7.3,Yes,Bachelor,Yes,40.0,Fail
+S1164,21,Female,2.8,72.5,49.2,6.0,No,Master,Yes,46.2,Fail
+S1165,21,Female,4.0,85.2,64.5,7.5,Yes,Master,Yes,66.0,Pass
+S1166,21,Female,7.0,79.7,51.3,6.9,Yes,Bachelor,Yes,62.2,Pass
+S1167,18,Male,6.6,93.9,80.1,6.3,Yes,Bachelor,No,68.7,Pass
+S1168,18,Female,9.5,88.9,94.5,6.1,Yes,Bachelor,No,87.0,Pass
+S1169,22,Male,3.5,65.0,53.0,9.9,Yes,Bachelor,Yes,47.6,Fail
+S1170,21,Male,8.4,88.2,85.8,6.7,Yes,Bachelor,No,73.7,Pass
+S1171,17,Female,2.8,64.7,59.8,5.4,Yes,High School,No,35.6,Fail
+S1172,21,Male,5.4,82.8,79.9,6.2,Yes,Bachelor,No,58.1,Pass
+S1173,21,Male,2.8,65.0,28.6,6.9,Yes,Master,Yes,33.5,Fail
+S1174,20,Male,9.5,90.4,88.8,7.6,Yes,Bachelor,Yes,80.3,Pass
+S1175,20,Male,1.1,54.1,51.2,7.6,Yes,Master,Yes,39.2,Fail
+S1176,17,Female,0.6,74.9,48.2,7.7,Yes,Bachelor,Yes,34.2,Fail
+S1177,17,Female,5.3,89.1,77.1,6.3,Yes,Bachelor,Yes,53.0,Pass
+S1178,17,Male,,94.9,77.5,7.4,Yes,High School,No,70.0,Pass
+S1179,17,Male,6.9,94.0,88.1,6.0,Yes,Bachelor,No,72.4,Pass
+S1180,22,Female,,82.0,71.5,6.3,No,Bachelor,Yes,54.8,Pass
+S1181,20,Female,9.4,91.3,85.4,6.0,Yes,High School,Yes,86.3,Pass
+S1182,21,Male,7.9,96.2,88.4,5.7,Yes,High School,Yes,74.8,Pass
+S1183,18,Female,6.7,81.5,86.2,8.2,Yes,Bachelor,Yes,77.4,Pass
+S1184,22,Male,2.1,74.6,40.2,7.8,Yes,Bachelor,No,40.0,Fail
+S1185,18,Male,7.8,93.4,78.6,8.1,Yes,Bachelor,Yes,77.1,Pass
+S1186,22,Male,6.4,84.7,69.5,7.0,Yes,High School,No,60.5,Pass
+S1187,17,Female,5.0,80.6,67.4,,Yes,Bachelor,No,60.1,Pass
+S1188,17,Male,2.2,70.9,22.4,5.1,Yes,Bachelor,No,27.0,Fail
+S1189,17,Male,3.9,87.9,61.5,7.9,Yes,Bachelor,No,57.0,Pass
+S1190,21,Male,1.5,69.4,67.0,7.2,Yes,Bachelor,No,44.7,Fail
+S1191,18,Male,7.4,,80.0,7.7,Yes,High School,Yes,72.0,Pass
+S1192,19,Female,4.8,79.8,32.1,7.4,Yes,Master,Yes,52.5,Pass
+S1193,19,Male,2.7,77.8,61.1,5.9,Yes,High School,No,47.9,Fail
+S1194,21,Male,7.8,90.8,90.4,5.4,Yes,Bachelor,Yes,75.8,Pass
+S1195,19,Female,2.6,65.5,59.9,6.2,Yes,High School,No,43.7,Fail
+S1196,17,Female,3.0,66.7,52.5,7.6,Yes,Bachelor,Yes,45.9,Fail
+S1197,19,Male,5.0,78.2,71.7,7.8,Yes,High School,Yes,57.2,Pass
+S1198,18,Female,7.6,91.8,86.8,5.5,Yes,Master,Yes,77.3,Pass
+S1199,21,Female,1.8,78.0,56.3,5.9,Yes,Bachelor,No,40.7,Fail
+S1200,21,Female,2.9,59.3,70.5,6.2,No,Bachelor,Yes,43.2,Fail
+S1201,17,Female,8.7,89.8,82.6,6.6,Yes,High School,Yes,70.9,Pass
+S1202,21,Female,7.7,87.6,83.0,5.5,Yes,High School,Yes,71.1,Pass
+S1203,17,Male,4.3,78.8,61.3,5.4,Yes,Bachelor,No,54.8,Pass
+S1204,20,Male,2.8,79.8,60.3,6.1,Yes,Bachelor,No,45.7,Fail
+S1205,19,Male,2.2,63.7,,7.1,Yes,Bachelor,Yes,55.4,Pass
+S1206,18,Male,2.9,,46.2,5.7,Yes,PhD,No,46.6,Fail
+S1207,19,Female,2.2,53.0,60.5,6.9,Yes,Bachelor,Yes,47.9,Fail
+S1208,18,Male,4.9,84.5,61.4,8.2,Yes,PhD,No,63.8,Pass
+S1209,21,Male,0.9,72.8,73.2,5.6,Yes,High School,Yes,51.6,Pass
+S1210,22,Female,6.1,96.2,70.3,6.8,No,Master,Yes,63.8,Pass
+S1211,21,Female,6.0,71.6,52.7,8.1,Yes,Bachelor,No,46.4,Fail
+S1212,19,Female,5.0,83.2,76.3,6.5,Yes,Bachelor,No,60.5,Pass
+S1213,20,Male,3.7,77.5,45.6,6.4,No,PhD,Yes,48.8,Fail
+S1214,19,Male,8.6,90.3,76.6,8.3,Yes,Bachelor,No,78.3,Pass
+S1215,21,Female,5.3,82.8,67.3,6.7,Yes,Master,No,62.4,Pass
+S1216,20,Male,5.4,68.0,69.6,8.2,Yes,Bachelor,Yes,66.2,Pass
+S1217,19,Male,0.5,63.4,53.3,7.5,No,High School,No,34.7,Fail
+S1218,19,Female,2.0,73.6,45.6,6.6,Yes,Bachelor,No,43.2,Fail
+S1219,19,Male,6.6,92.6,91.9,7.5,Yes,Bachelor,Yes,73.4,Pass
+S1220,20,Female,3.8,83.6,66.4,7.4,No,Master,No,50.8,Pass
+S1221,21,Male,2.0,67.9,61.6,8.1,Yes,Master,Yes,54.6,Pass
+S1222,19,Female,5.2,81.0,57.4,6.4,No,High School,No,52.6,Pass
+S1223,21,Female,4.8,78.5,54.7,7.0,Yes,High School,Yes,50.7,Pass
+S1224,21,Female,7.7,100.0,96.3,6.9,No,High School,Yes,77.1,Pass
+S1225,19,Male,2.6,55.5,62.3,7.8,Yes,Bachelor,No,42.6,Fail
+S1226,22,Female,7.8,93.0,71.6,5.9,Yes,High School,No,66.7,Pass
+S1227,18,Female,3.2,78.9,54.5,8.1,Yes,Bachelor,No,44.8,Fail
+S1228,22,Female,5.3,82.8,62.6,7.5,Yes,Bachelor,No,53.6,Pass
+S1229,18,Male,4.6,78.5,67.9,5.6,Yes,Master,Yes,57.2,Pass
+S1230,20,Male,1.9,76.0,53.6,8.3,No,High School,Yes,40.1,Fail
+S1231,18,Male,3.3,75.8,70.1,9.5,Yes,Bachelor,Yes,62.1,Pass
+S1232,19,Male,3.9,74.0,81.3,8.1,Yes,High School,Yes,61.1,Pass
+S1233,19,Female,8.5,93.1,80.7,8.6,Yes,Master,Yes,82.8,Pass
+S1234,21,Female,6.4,73.6,62.5,7.1,Yes,High School,No,56.1,Pass
+S1235,17,Female,7.3,93.5,77.4,5.2,Yes,High School,No,68.8,Pass
+S1236,22,Female,7.8,92.7,81.1,5.0,Yes,High School,Yes,74.2,Pass
+S1237,22,Female,3.1,88.8,63.6,7.3,Yes,Master,Yes,58.8,Pass
+S1238,20,Male,7.7,87.1,90.4,6.3,Yes,High School,No,74.6,Pass
+S1239,20,Male,3.8,74.6,30.0,6.0,Yes,Bachelor,Yes,45.1,Fail
+S1240,21,Female,2.6,75.4,63.2,6.9,Yes,Bachelor,Yes,49.8,Fail
+S1241,18,Male,7.8,93.8,76.9,7.7,Yes,Master,Yes,80.4,Pass
+S1242,21,Male,5.9,91.1,83.1,5.4,Yes,High School,Yes,65.5,Pass
+S1243,18,Female,2.2,,41.9,6.5,No,High School,Yes,27.7,Fail
+S1244,21,Female,6.6,81.8,60.1,8.7,Yes,Bachelor,No,65.2,Pass
+S1245,18,Male,3.9,80.7,67.6,5.8,Yes,High School,Yes,56.8,Pass
+S1246,21,Male,9.4,91.4,91.3,8.0,Yes,Bachelor,No,87.5,Pass
+S1247,21,Male,4.2,,77.1,6.5,Yes,Bachelor,No,60.8,Pass
+S1248,18,Female,4.1,87.5,77.7,7.6,No,Bachelor,No,58.8,Pass
+S1249,20,Female,4.7,73.8,65.4,8.2,Yes,High School,Yes,53.8,Pass
+S1250,19,Female,6.4,,66.3,7.8,Yes,Bachelor,Yes,67.5,Pass
+S1251,18,Female,6.8,77.1,73.3,8.0,Yes,High School,Yes,68.7,Pass
+S1252,20,Male,8.0,94.2,80.5,5.7,Yes,Bachelor,Yes,73.6,Pass
+S1253,22,Female,6.9,79.7,72.7,8.2,Yes,High School,Yes,72.3,Pass
+S1254,17,Male,1.8,70.9,48.3,6.1,Yes,PhD,No,37.1,Fail
+S1255,22,Male,2.7,56.9,31.5,7.3,Yes,Bachelor,Yes,33.1,Fail
+S1256,22,Female,4.9,74.1,60.3,7.3,Yes,High School,Yes,61.4,Pass
+S1257,20,Female,8.0,87.5,84.2,7.5,No,High School,Yes,77.8,Pass
+S1258,20,Male,2.4,70.3,41.3,7.4,Yes,High School,No,37.0,Fail
+S1259,19,Male,2.7,86.6,48.4,6.1,No,High School,No,43.1,Fail
+S1260,17,Male,5.9,83.9,63.9,5.5,Yes,High School,No,58.9,Pass
+S1261,20,Female,3.1,65.5,63.5,8.0,Yes,Master,No,39.7,Fail
+S1262,21,Female,9.0,88.5,92.0,7.2,Yes,Bachelor,No,79.0,Pass
+S1263,18,Male,,65.4,55.9,8.3,Yes,,No,44.7,Fail
+S1264,21,Male,3.0,72.1,55.6,7.0,Yes,,Yes,46.4,Fail
+S1265,21,Male,8.3,97.6,83.2,5.5,No,High School,No,74.7,Pass
+S1266,21,Male,4.3,64.8,51.8,8.1,Yes,PhD,No,55.4,Pass
+S1267,19,Male,2.4,79.7,39.3,6.6,Yes,High School,Yes,38.6,Fail
+S1268,19,Male,2.2,67.1,30.3,7.4,Yes,Bachelor,No,30.6,Fail
+S1269,19,Male,1.8,86.4,51.4,6.3,Yes,Master,Yes,47.1,Fail
+S1270,22,Female,1.6,68.7,52.9,8.8,Yes,High School,No,40.0,Fail
+S1271,22,Female,1.4,82.3,60.9,6.0,Yes,High School,Yes,43.5,Fail
+S1272,19,Male,1.7,70.9,64.1,6.6,Yes,Bachelor,No,43.7,Fail
+S1273,22,Female,2.4,75.7,64.1,7.1,Yes,Master,No,58.8,Pass
+S1274,20,Male,3.6,77.3,62.4,5.8,Yes,Bachelor,Yes,42.9,Fail
+S1275,19,Female,4.9,78.2,65.2,7.4,Yes,Bachelor,Yes,57.5,Pass
+S1276,17,Male,5.1,75.7,56.6,8.8,Yes,Master,Yes,58.8,Pass
+S1277,20,Female,,75.9,72.8,6.5,Yes,Master,Yes,52.9,Pass
+S1278,20,Male,5.8,81.1,69.0,7.4,Yes,Bachelor,No,66.5,Pass
+S1279,22,Female,10.5,96.9,93.5,4.0,Yes,Bachelor,Yes,90.2,Pass
+S1280,21,Male,9.8,92.9,80.9,7.0,Yes,Bachelor,Yes,82.8,Pass
+S1281,17,Female,3.0,56.6,42.1,6.7,No,High School,Yes,34.7,Fail
+S1282,20,Male,2.7,53.9,57.1,6.1,Yes,Master,No,41.9,Fail
+S1283,21,Female,1.2,68.9,40.1,8.2,Yes,High School,Yes,35.5,Fail
+S1284,19,Male,2.4,77.0,47.9,6.6,No,High School,No,39.0,Fail
+S1285,19,Female,5.7,74.2,64.3,6.8,Yes,Master,Yes,60.0,Pass
+S1286,21,Male,5.1,92.2,71.9,6.6,Yes,High School,Yes,63.7,Pass
+S1287,20,Female,2.7,66.5,46.8,4.9,No,High School,No,38.5,Fail
+S1288,21,Female,3.0,83.8,70.9,5.8,No,High School,Yes,45.9,Fail
+S1289,19,Female,5.0,73.9,80.5,8.1,Yes,Bachelor,No,59.5,Pass
+S1290,18,Male,3.6,56.3,43.7,4.7,Yes,Master,Yes,33.3,Fail
+S1291,20,Male,8.4,84.4,81.3,6.2,Yes,High School,No,76.8,Pass
+S1292,22,Male,2.8,81.6,49.2,6.6,No,High School,No,43.1,Fail
+S1293,20,Female,6.7,94.6,84.5,8.9,No,Bachelor,No,76.0,Pass
+S1294,21,Female,1.5,,57.1,7.8,Yes,PhD,Yes,40.4,Fail
+S1295,17,Male,7.2,88.4,83.8,,Yes,High School,No,78.6,Pass
+S1296,22,Female,8.6,93.6,86.6,8.4,Yes,PhD,No,81.1,Pass
+S1297,18,Male,8.0,97.1,77.1,6.2,Yes,Master,Yes,77.6,Pass
+S1298,22,Female,6.6,96.1,82.3,8.1,Yes,,Yes,77.2,Pass
+S1299,19,Male,7.7,,86.3,5.5,Yes,Master,No,72.4,Pass
+S1300,22,Male,4.6,72.4,66.1,8.2,Yes,Bachelor,Yes,55.9,Pass
+S1190,21,Male,1.5,69.4,67.0,7.2,Yes,Bachelor,No,44.7,Fail
+S1124,17,Female,5.7,80.5,81.7,8.3,Yes,High School,No,71.7,Pass
+S1186,22,Male,6.4,84.7,69.5,7.0,Yes,High School,No,60.5,Pass
+S1214,19,Male,8.6,90.3,76.6,8.3,Yes,Bachelor,No,78.3,Pass
